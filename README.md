@@ -1,1 +1,13 @@
 # Cs-230
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The client The Gaming Room wanted there application Draw it or Lose it wanted to expand there game application to be cross platform and available on both web browsers and mobile devices. They needed the game to support multiple players and multiple teams simultaneously. 
+What did you do particularly well in developing this documentation?
+While creating this document my clarity of detail was well drawn up. I wanted to go over the specifics of the topics and recommend what I thought was best but I did not want to provide so many details that the reader would get bogged down and confused about all of the different operating systems.
+What about the process of working through a design document did you find helpful when developing the code?
+Working through this document really helped in visulaizing what would be needed to create a cross platform application. It helped in keeping my proces open minded to the various technologies that would need to be utilized and how ambigious the code may have to be to keep the game relevant to all potential OS.
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would like to break down the costs of each componet in my recmmendation feature and how to aquire said reccomendations.
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+The Gaming Room client was fairly straight forward with there requirements. I interpereted these requirements using a broad brush making sure that the solution I offered was as close to a one size fits all so that the client could continue to expand if that was an option for them. It is important to consider user needs when designing, because why else would you make a multi-user app that requires use and interaction with the user to be successful but potentially anger and frustrate the user when they are trying to utilize the app.
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I approached designing this software through an agile-waterfall method where I took the user requirements and created teh software through the modules of this class. In the future I would like to take user feedback on what worked and what isn't working so well and continue developing using these feedback loops. Creating user stories would be helpful to create a priority lists and create the software through those and utilize a more agile method.
